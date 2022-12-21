@@ -19,3 +19,7 @@ x.value = "test";
 x.defaultValue; //""
 x.value; //"test"
 ```
+
+
+
+const { title } = document like thing safe or not?

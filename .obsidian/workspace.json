@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Audio.md",
+                "file": "WebDev tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27dcccd2dc3f96d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitwise Operators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "2d9e09712ac17d04",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Audio.md",
+                "file": "Bitwise Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Audio.md",
+                "file": "Bitwise Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Audio.md"
+                "file": "Bitwise Operators.md"
               }
             }
           }
@@ -136,9 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "181351621bb54d9e",
+  "active": "6bd0318337b2b9dc",
   "lastOpenFiles": [
     "WebDev tips.md",
+    "Bitwise Operators.md",
     "Audio.md",
     "README.md",
     "ReactJS.md",
