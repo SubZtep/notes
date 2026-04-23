@@ -1,4 +1,12 @@
-## Set HTML Input value
+## ReactJS
+
+### Observations
+
+Synthetic events are in an event queue, always async and runs separately from DOM events (I think).
+
+## Web development
+
+### Set HTML Input value
 
 https://stackoverflow.com/questions/36470788/why-the-difference-between-setting-the-value-of-an-input-via-setattribute-or-dir
 
@@ -19,7 +27,3 @@ x.value = "test";
 x.defaultValue; //""
 x.value; //"test"
 ```
-
-
-
-const { title } = document like thing safe or not?
