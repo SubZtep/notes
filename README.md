@@ -1,1 +1,0 @@
-Openwith https://obsidian.md
