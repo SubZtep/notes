@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "711a9dd6c1bea4a1",
+        "id": "b0bcd8080fca2954",
         "type": "tabs",
         "children": [
           {
-            "id": "1606aa46aee8a909",
+            "id": "90163406bd0b1331",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/Claude Code.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Claude Code"
             }
           }
         ]
@@ -179,16 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "6bd0318337b2b9dc",
+  "active": "90163406bd0b1331",
   "lastOpenFiles": [
+    "AI/mcp suggestions.md",
+    "AI/Claude Code.md",
+    "cli.md",
+    "audio.md",
     "Untitled.base",
     "Untitled.canvas",
     "README.md",
-    "cli.md",
     "docker.md",
     "links.md",
     "tips.md",
-    "audio.md",
     "VSCode.md",
     "ReactJS.md",
     "Docker.md",

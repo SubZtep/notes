@@ -52,6 +52,12 @@ Directory sizes in current folder
 du -sh *
 ```
 
+Delete file from gitw
+
+```sh
+git rm --cached apps/cli/.env
+```
+
 ## Docker
 
 Build only one service from compose
@@ -86,3 +92,45 @@ Keep audio on to prevent static noise.
 ffplay -nodisp -autoexit -loglevel quiet -f lavfi "anullsrc=r=44100:cl=stereo"
 ```
 
+Open test database
+
+```sh
+rainfrog -u postgresql://testuser:testpass@localhost:5433/test
+```+++
+Check for dependency updates:
+
+```sh
+bun outdated -r
+```
+
+Update depdendencies for all packages:
+
+```sh
+bunx npm-check-updates -w -u
+```
+
+Print full output with errors into a file:
+
+```sh
+bun dev > output.txt 2>&1
+```
+
+Generate Better-Auth secret:
+
+```sh
+openssl rand -base64 32
+```
+
+Find unused dependencies:
+
+```sh
+bunx knip
+```
+
+## Docker
+
+Start database only:
+
+```sh
+docker compose up -d db
+```
