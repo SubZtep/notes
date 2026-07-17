@@ -1,6 +1,6 @@
 Hide your local changes from Git:
 ```bash
-git update-index --skip-worktree path/to/config.file
+path/to/config.file
 ```
 
 What it does:
@@ -19,4 +19,5 @@ To see all files marked this way:
 git ls-files -v | grep '^S'
 ```
 
-**Good for:** Local config files (API keys, ports, personal settings) that are tracked by Git but you want to customise on your own machine without committing those changes.
+**Good for:** Local config files (API keys, ports, personal settings) that are trac
+ked by Git but you want to customise on your own machine without committing those changes.

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "764554387ba2ff4d",
+        "id": "cf28c374c628b4c5",
         "type": "tabs",
         "children": [
           {
-            "id": "31e5dac8f8ee50ee",
+            "id": "d87f5b825a5c5e81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Keep a tracked file modified locally without committing it.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Keep a tracked file modified locally without committing it"
+              "title": "New tab"
             }
           }
         ]
@@ -183,25 +179,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "31e5dac8f8ee50ee",
+  "active": "6bd0318337b2b9dc",
   "lastOpenFiles": [
-    "Git/Keep a tracked file modified locally without committing it.md",
-    "Git",
-    "AI/How to choose model?.md",
-    "AI/Untitled.md",
+    "tips.md",
     "cli.md",
-    "Configuration/Domain.md",
-    "Configuration/Free Gmail SMTP.md",
-    "AI/Claude Code.md",
-    "Configuration",
-    "AI/mcp suggestions.md",
     "audio.md",
+    "Docker/Debug broken container.md",
+    "Docker",
+    "links.md",
+    "Git/Keep a tracked file modified locally without committing it.md",
+    "Configuration/Free Gmail SMTP.md",
+    "Configuration/Domain.md",
+    "AI/mcp suggestions.md",
+    "AI/Untitled.md",
+    "AI/How to choose model?.md",
+    "AI/Claude Code.md",
+    "Git",
+    "Configuration",
     "Untitled.base",
     "Untitled.canvas",
     "README.md",
-    "docker.md",
-    "links.md",
-    "tips.md",
     "VSCode.md",
     "ReactJS.md",
     "Docker.md",
