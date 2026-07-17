@@ -58,6 +58,12 @@ Delete file from gitw
 git rm --cached apps/cli/.env
 ```
 
+List remotes
+
+```sh
+git remote -v
+```
+
 ## Docker
 
 Build only one service from compose
@@ -133,4 +139,12 @@ Start database only:
 
 ```sh
 docker compose up -d db
+```
+
+## File-system
+
+Find directory by name
+
+```sh
+find /home/dcr -type d -name "my_dir_name"
 ```
