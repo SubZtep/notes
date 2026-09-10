@@ -10,6 +10,12 @@ Bash commands
 
 ## GIT
 
+Ignore my current changes and makes the branch looks like in remote
+
+```bash
+git reset --hard
+```
+
 Get Git hash
 
 ```sh
@@ -131,6 +137,12 @@ Find unused dependencies:
 
 ```sh
 bunx knip
+```
+
+Update all packages in all monorepo workspaces:
+
+```sh
+bunx npm-check-updates -w -u
 ```
 
 ## Docker

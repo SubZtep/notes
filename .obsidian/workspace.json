@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf28c374c628b4c5",
+        "id": "9c97d5aff3ee3dab",
         "type": "tabs",
         "children": [
           {
-            "id": "d87f5b825a5c5e81",
+            "id": "d68f41ed7abd5ee0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Git/Add local .gitignore.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Add local .gitignore"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,21 +185,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "6bd0318337b2b9dc",
+  "active": "d68f41ed7abd5ee0",
   "lastOpenFiles": [
-    "tips.md",
-    "cli.md",
-    "audio.md",
-    "Docker/Debug broken container.md",
-    "Docker",
-    "links.md",
     "Git/Keep a tracked file modified locally without committing it.md",
+    "Git/Add local .gitignore.md",
+    "cli.md",
+    "AI/How to choose model?.md",
+    "AI/mcp suggestions.md",
+    "Docker/Debug broken container.md",
     "Configuration/Free Gmail SMTP.md",
     "Configuration/Domain.md",
-    "AI/mcp suggestions.md",
-    "AI/Untitled.md",
-    "AI/How to choose model?.md",
     "AI/Claude Code.md",
+    "tips.md",
+    "audio.md",
+    "Docker",
+    "links.md",
+    "AI/Untitled.md",
     "Git",
     "Configuration",
     "Untitled.base",
