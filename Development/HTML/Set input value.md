@@ -1,13 +1,3 @@
-## ReactJS
-
-### Observations
-
-Synthetic events are in an event queue, always async and runs separately from DOM events (I think).
-
-## Web development
-
-### Set HTML Input value
-
 https://stackoverflow.com/questions/36470788/why-the-difference-between-setting-the-value-of-an-input-via-setattribute-or-dir
 
 The main difference between both the approach is setting the underlying `defaultValue` property. when you use `setAttribute`, the both `defaultValue` property as well as the `value` property will be updated/set. whereas using `.value` will update/set the `value` property of it only.

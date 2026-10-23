@@ -1,5 +1,3 @@
-Web Audio
-
 ## Keywords and Buzzwords
 
 ### Audio Parameters

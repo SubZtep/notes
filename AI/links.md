@@ -1,7 +1,6 @@
 ## SaaS
 
 https://aistudio.google.com/usage?project=gen-lang-client-0011767241&timeRange=last-28-days
-z
 
 ## Bitwise Operators
 

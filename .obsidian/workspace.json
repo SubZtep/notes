@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9c97d5aff3ee3dab",
+        "id": "11ae20e53419501e",
         "type": "tabs",
         "children": [
           {
-            "id": "d68f41ed7abd5ee0",
+            "id": "2f278ff5fc2ace1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Add local .gitignore.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Add local .gitignore"
+              "title": "New tab"
             }
           }
         ]
@@ -185,33 +181,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "d68f41ed7abd5ee0",
+  "active": "2f278ff5fc2ace1c",
   "lastOpenFiles": [
-    "Git/Keep a tracked file modified locally without committing it.md",
-    "Git/Add local .gitignore.md",
+    "AI/links.md",
+    "Linux/CLI.md",
     "cli.md",
+    "AI/LLM.md",
+    "Docker/CLI.md",
+    "Docker/Debug broken container.md",
+    "Linux/Arch/Update packages.md",
+    "Linux/Arch",
+    "Development/Git/CLI.md",
+    "Development/Git/Keep a tracked file modified locally without committing it.md",
+    "Development/Git/Add local .gitignore.md",
+    "Linux/Installing AppImages.md",
+    "audio.md",
+    "Development/Audio/Web audio.md",
+    "Development/Audio",
+    "tips.md",
+    "Development/React/Observations.md",
+    "Development/HTML/Set input value.md",
+    "Development/HTML",
+    "Development/React",
+    "Development/Web",
+    "Development",
+    "AI/Claude Code.md",
+    "Linux",
     "AI/How to choose model?.md",
     "AI/mcp suggestions.md",
-    "Docker/Debug broken container.md",
     "Configuration/Free Gmail SMTP.md",
     "Configuration/Domain.md",
-    "AI/Claude Code.md",
-    "tips.md",
-    "audio.md",
     "Docker",
-    "links.md",
-    "AI/Untitled.md",
-    "Git",
+    "Development/Git",
     "Configuration",
-    "Untitled.base",
     "Untitled.canvas",
     "README.md",
     "VSCode.md",
     "ReactJS.md",
     "Docker.md",
-    "CLI.md",
-    "Bitwise Operators.md",
-    "Audio.md",
-    "WebDev tips.md"
+    "CLI.md"
   ]
 }
